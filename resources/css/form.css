@@ -1,0 +1,7 @@
+
+.form-head
+{
+    @apply text-2xl font-bold mx-4 pb-2;
+}
+
+
